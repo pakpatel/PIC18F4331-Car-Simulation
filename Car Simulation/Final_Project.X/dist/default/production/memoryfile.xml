@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project>
+  <executable name="dist/default/production\Final_LED_test.X.production.hex">
+    <memory name="program">
+      <units>bytes</units>
+      <length>8192</length>
+      <used>2780</used>
+      <free>5412</free>
+    </memory>
+    <memory name="data">
+      <units>bytes</units>
+      <length>768</length>
+      <used>80</used>
+      <free>688</free>
+    </memory>
+  </executable>
+</project>
